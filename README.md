@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, Im Anthony 👋
 
+## 👨‍💻 Who am I?
+I'm a CS student at Washington State University with a strong interest in backend development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design. 
 <!--
 **AnthonyZanders/AnthonyZanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
