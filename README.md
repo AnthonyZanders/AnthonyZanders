@@ -1,7 +1,29 @@
-## Hi, Im Anthony 👋
+## Hi, I'm Anthony 👋
 
 ## 👨‍💻 Who am I?
 I'm a CS student at Washington State University with a strong interest in backend development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design. 
+
+
+## 🚀 What I'm currently working on
+- Building more academic and personal projects
+- Better expanding my backend development skills
+
+## 🛠️ Tools & Technologies
+### Languages
+- Java
+- Dart
+- Python
+### Tools
+- Git & Github
+- Intelij IDEA
+- VS Code
+- Google Firebase
+- Google Colab
+
+## 📫 How to reach me
+- LinkedIn: [www.linkedin.com/in/anthony-zanders]
+- Email: [anthonyzanders2006@yahoo.com]
+
 <!--
 **AnthonyZanders/AnthonyZanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
