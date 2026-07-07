@@ -1,4 +1,4 @@
-## Hi, I'm Anthony 👋
+## Hello, I'm Anthony 👋
 
 ## 👨‍💻 Who am I?
 I'm a CS student at Washington State University with a strong interest in backend development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design. 
@@ -9,7 +9,7 @@ I'm a CS student at Washington State University with a strong interest in backen
 - Currently building a web application for combat training athletes that allows you to track training, lifts & nutrtion all in one app
 - Better expanding my backend development skills
 
-## 🛠️ Tools & Technologies
+## 🛠️ Languages & Technologies
 ### Languages
 - Java
 - Dart
