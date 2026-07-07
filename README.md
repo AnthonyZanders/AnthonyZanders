@@ -6,6 +6,7 @@ I'm a CS student at Washington State University with a strong interest in backen
 
 ## 🚀 What I'm currently working on
 - Building more academic and personal projects
+- Currently building a web application for combat training athletes that allows you to track training, lifts & nutrtion all in one app
 - Better expanding my backend development skills
 
 ## 🛠️ Tools & Technologies
