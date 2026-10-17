@@ -1,4 +1,4 @@
-## Hello, I'm Anthony Zanders 👋
+## Hello, I'm Anthony👋
 
 ## 👨‍💻 Who am I?
 I'm a CS student at Washington State University with a strong interest in frontend, backend, or full-stack development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design principles. 
