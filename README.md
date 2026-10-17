@@ -1,7 +1,7 @@
-## Hello, I'm Anthony 👋
+## Hello, I'm Anthony Zanders 👋
 
 ## 👨‍💻 Who am I?
-I'm a CS student at Washington State University with a strong interest in backend development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design. 
+I'm a CS student at Washington State University with a strong interest in frontend, backend, or full-stack development and software engineering. I also enjoy building projects that better strengthen my understanding of programming, problem-solving, and system design principles. 
 
 
 ## 🚀 What I'm currently working on
@@ -21,12 +21,16 @@ I'm currently expanding my software engineering toolkit with a strong emphasis o
 - Java
 - Dart
 - Python
+- C#
+  
 ### Tools
 - Git & Github
 - Intelij IDEA
 - VS Code
 - Google Firebase
 - Google Colab
+- Visual Studio
+- Gitlabs
 
 ## 📫 How to reach me
 - LinkedIn: [www.linkedin.com/in/anthony-zanders]
