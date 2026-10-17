@@ -10,7 +10,6 @@ I'm a CS student at Washington State University with a strong interest in backen
 - Better expanding my backend development skills
 
 ### 📚 Current Coursework & Tech Focus
-
 I'm currently expanding my software engineering toolkit with a strong emphasis on scalable architecture, clean design, and **C#**:
 * **Advanced Object-Oriented Programming:** Mastering C# fundamentals, including the type system, inheritance, polymorphism, and reflection.
 * **Event-Driven Architecture & GUIs:** Building responsive desktop applications by understanding the event-driven execution model.
