@@ -9,6 +9,14 @@ I'm a CS student at Washington State University with a strong interest in backen
 - Currently building a web application for combat training athletes that allows you to track training, lifts & nutrtion all in one app
 - Better expanding my backend development skills
 
+### 📚 Current Coursework & Tech Focus
+
+I'm currently expanding my software engineering toolkit with a strong emphasis on scalable architecture, clean design, and **C#**:
+* **Advanced Object-Oriented Programming:** Mastering C# fundamentals, including the type system, inheritance, polymorphism, and reflection.
+* **Event-Driven Architecture & GUIs:** Building responsive desktop applications by understanding the event-driven execution model.
+* **Design Patterns & Decoupling:** Implementing robust patterns and separating business logic from user interfaces to ensure code maintainability and seamless updates.
+* **Advanced Data Structures:** Working with expression trees to evaluate complex arithmetic expressions and optimize software efficiency.
+
 ## 🛠️ Languages & Technologies
 ### Languages
 - Java
